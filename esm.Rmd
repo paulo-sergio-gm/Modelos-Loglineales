@@ -1,13 +1,3 @@
----
-title: "Estimación por Sistemas Múltiples"
-author: "Paulo Sergio García Méndez"
-date: "Octubre de 2024"
-output:
-  pdf_document: 
-    number_sections: yes
-  word_document: default
----
-  
 # Modelos Loglineales
 
 ## Introducción
